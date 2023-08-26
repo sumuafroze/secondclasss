@@ -1,0 +1,245 @@
+*{
+background: #F0F3F2;
+margin: 0px;
+padding: 0px;
+}
+
+body{
+	font-family: 'Poppins', sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Open Sans', sans-serif;
+}
+.facebook .banner{
+	margin: 20px auto;
+	height: 320px;
+	width: 375px;
+	padding: 10px;
+}
+.facebook .banner .form-group{
+	background: white;
+	border: transparent;
+	width: 100%;
+	margin: 100px auto;
+	padding: 10px;
+	text-align: center;
+	border-radius: 10px;
+	box-shadow: 90px;
+	width: 100%;
+	
+}
+
+.facebook .avater{
+	width: 100%;
+	height: 60px;
+}
+
+.facebook .avater img{
+	height: 47px;
+	width: 190px;
+	margin: 50px auto 10px;
+}
+
+.facebook .avater h1{
+	font-size: 20px;
+	line-height: 22px;
+	font-weight: 400;
+	text-align: center;
+
+}
+
+/*.form-group .form-input{
+	height: 30px;
+	width: 100%;
+	display: block;
+	background: white;
+	border-radius: 5px;
+}
+
+.form-group .button{
+	background: blue;
+	display: block;
+	border-radius: 5px;
+}
+
+.a{
+	text-decoration: none;
+}*/
+.facebook{
+	text-align: center;
+}
+.facebook .banner{
+	text-align: center;
+
+}
+.facebook .banner .form-group{
+	text-align: center;
+}
+.facebook .banner .form-group .form-input{
+	text-align: left;
+	padding: 5px 15px;
+	font-size: 16px;
+}
+
+.banner .form-group .value{
+	width: 100%;
+	margin: 10px 0px;
+	background: white;
+}
+
+.banner .form-group .value .form-input{
+	width: 88%;
+	text-align: left;
+	border: 1.5px solid #F0F3F2;
+	border-radius: 6px;
+	background: white;
+	height: 33px;
+	font-weight: 400;
+}
+
+.banner .form-group .fb{
+	background: white;
+	margin: 13px 0px 20px;
+}
+.banner .form-group .fb label{
+	font-size: 16px;
+	font-weight: 300;
+	background: white;
+	margin: 35px 0px;
+}
+
+.banner .form-group button{
+	display: block;
+	text-align: center;
+	padding: 0px 16pxs;
+	font-size: 20px;
+	line-height: 30px;
+	font-weight: 600;
+	border-radius: 6px;
+	background: #1877f2;
+	color: white;
+	width: 96.5%;
+	height: 40px;
+	margin: 0px 6px 15px 6px;
+	border: none;
+	cursor: pointer;
+}
+
+.banner .form-group .login:hover{
+	border: none;
+	background: #1F51FF;
+}
+
+.banner .form-group a{
+	text-decoration: none;
+	background: white;
+	font-size: 12px;
+	text-align: center;
+	margin: 5px 10px 40px 0px;
+	color: #1877f2;
+}
+
+.banner .form-group .dob{
+	background: white;
+}
+
+.banner .form-group .dob label{
+	background: white;
+	display: block;
+	text-align: left;
+	font-size: 11px;
+	margin: 10px 6px 5px;
+	color: gray;
+}
+
+.banner .form-group .dob input{
+	background: white;
+	width: 96%;
+	height: 34px;
+	border: 1.5px solid #F0F3F2;
+	border-radius: 6px;
+	color: slategray;
+}
+
+.banner .form-group .gender-group{
+	background: white;
+}
+
+.banner .form-group .gender-group label{
+	background: white;
+	display: block;
+	text-align: left;
+	font-size: 11px;
+	margin: 10px 6px 5px;
+	color: gray;
+}
+
+.banner .form-group .gender-group input{
+	background: white;
+	width: 36px;
+	border: 1.5px solid #F0F3F2;
+	border-radius: 6px;
+	color: slategray;
+	
+}
+
+.banner .form-group .gender-group span{
+	background: white;
+	width: 36px;
+	height: auto;
+	color: slategray;
+	margin: 0px 10px 15px 0px;
+}
+
+.banner .form-group button.signup{
+	display: block;
+	text-align: center;
+	padding: 0px 16pxs;
+	font-size: 20px;
+	line-height: 30px;
+	font-weight: 600;
+	border-radius: 6px;
+	background: rgb(0, 164, 0);
+	color: white;
+	width: 96.5%;
+	height: 40px;
+	margin: 0px 6px 15px 6px;
+	border: none;
+	cursor: pointer;
+}
+
+.banner .form-group .signup:hover{
+	border: none;
+	background: forestgreen;
+}
+
+.banner .form-group p{
+	text-decoration: none;
+	background: white;
+	font-size: 10px;
+	line-height: 16px;
+	text-align: left;
+	margin: 5px 5px 15px 5px;
+	color: gray;
+}
+
+.banner .form-group .fb h2{
+	background: white;
+	font-size: 23px;
+	font-weight: 600;
+	background: white;
+	margin: 8px 0px;
+
+}
+
+.banner .form-group .fb h4{
+	background: white;
+	font-size: 13px;
+	background: white;
+	margin: 8px 0px;
+	color: gray;
+	font-weight: 500;
+}
